@@ -1,76 +1,76 @@
 {
-    "coffees": [
-        {
-            "id": 1,
-            "title": "RED BRICK",
-            "description": "A wonderful coffee to work with, its almond and caramel notes are perfectly balanced by the bright, fruity yum of Los Ancestros.",
-            "country": "Guatemala",
-            "price": 11,
-            "currencyFormat": "€",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRQLhCDC1AStj_KQ1dV70ux7bYNStOuOiMjA&s"
-        },
-        {
-            "id": 2,
-            "title": "TODOS SANTOS",
-            "description": "Sweet, syrupy and delicious with notes of chocolate-covered cherry and blueberry.",
-            "country": "Guatemala",
-            "price": 15,
-            "currencyFormat": "€",
-            "image": "https://sido.com.pl/wp-content/uploads/2022/02/Sido_Guatemala_Todos_Santos.jpg"
-        },
-        {
-            "id": 3,
-            "title": "RED DE MUJERES",
-            "description": "Red apple flows into delightful milk chocolate and orange notes that goes dreamily with, or without milk.",
-            "country": "Guatemala",
-            "price": 13,
-            "currencyFormat": "€",
-            "image": "https://www.monkeekoffee.com/wp-content/uploads/2021/09/IMG_1409-scaled.jpg"
-        },
-        {
-            "id": 4,
-            "title": "ORTIZ 1900",
-            "description": "Best enjoyed all day every day, expect a creamy pecan texture sprinkled with bits of red grape and fig.",
-            "country": "Costa Rica",
-            "price": 15.5,
-            "currencyFormat": "€",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6NiOHkb_FnsPoT2urogeIZ6EPk7HGRxQ5Cw&s"
-        },
-        {
-            "id": 5,
-            "title": "ARICHA",
-            "description": "Fresh, juicy and oh so delightful Aricha is an Ethiopian must-taste.",
-            "country": "Costa Rica",
-            "price": 15.5,
-            "currencyFormat": "€",
-            "image": "https://garagecoffeebros.com/cdn/shop/files/GCB_mockup-etichette_2000x1500_ETHIOPIA_Aricha_FW.jpg?v=1695879464"
-        },
-        {
-            "id": 6,
-            "title": "CABALLEROS",
-            "description": "Delightfully balanced, apple and macadamia notes are highlighted by a honeysuckle sweetness.",
-            "country": "Honduras",
-            "price": 16,
-            "currencyFormat": "€",
-            "image": "https://http2.mlstatic.com/D_NQ_NP_900730-MLM49722762181_042022-O.webp"
-        },
-        {
-            "id": 7,
-            "title": "DECAF ESPRESSO",
-            "description": "Delightful all the way through, peach swims in caramel and custard.",
-            "country": "Ethiopia",
-            "price": 13.5,
-            "currencyFormat": "€",
-            "image": "https://groundsforchange.com/cdn/shop/products/DecafEthiopiaSidamoOrganicFairTradeCoffee_900x.jpg?v=1650557198"
-        },
-        {
-            "id": 8,
-            "title": "LA BOLSA",
-            "description": "Ranking high on our must-try list is La Bolsa from Guatemala.",
-            "country": "Guatemala",
-            "price": 13,
-            "currencyFormat": "€",
-            "image": "https://images.vexels.com/media/users/3/193473/raw/b9db46da0bcef4d45ddaccef807f7e2b-maqueta-de-empaque-de-bolsa-de-cafe.jpg"
-        }
-    ]
+  "coffees": [
+    {
+      "id": 1,
+      "title": "RED BRICK",
+      "description": "A wonderful coffee to work with, its almond and caramel notes are perfectly balanced by the bright, fruity yum of Los Ancestros.",
+      "country": "Guatemala",
+      "price": 11,
+      "currencyFormat": "€",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRQLhCDC1AStj_KQ1dV70ux7bYNStOuOiMjA&s"
+    },
+    {
+      "id": 2,
+      "title": "TODOS SANTOS",
+      "description": "Sweet, syrupy and delicious with notes of chocolate-covered cherry and blueberry.",
+      "country": "Guatemala",
+      "price": 15,
+      "currencyFormat": "€",
+      "image": "https://sido.com.pl/wp-content/uploads/2022/02/Sido_Guatemala_Todos_Santos.jpg"
+    },
+    {
+      "id": 3,
+      "title": "RED DE MUJERES",
+      "description": "Red apple flows into delightful milk chocolate and orange notes that goes dreamily with, or without milk.",
+      "country": "Guatemala",
+      "price": 13,
+      "currencyFormat": "€",
+      "image": "https://www.monkeekoffee.com/wp-content/uploads/2021/09/IMG_1409-scaled.jpg"
+    },
+    {
+      "id": 4,
+      "title": "ORTIZ 1900",
+      "description": "Best enjoyed all day every day, expect a creamy pecan texture sprinkled with bits of red grape and fig.",
+      "country": "Costa Rica",
+      "price": 15.5,
+      "currencyFormat": "€",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6NiOHkb_FnsPoT2urogeIZ6EPk7HGRxQ5Cw&s"
+    },
+    {
+      "id": 5,
+      "title": "ARICHA",
+      "description": "Fresh, juicy and oh so delightful Aricha is an Ethiopian must-taste.",
+      "country": "Costa Rica",
+      "price": 15.5,
+      "currencyFormat": "€",
+      "image": "https://garagecoffeebros.com/cdn/shop/files/GCB_mockup-etichette_2000x1500_ETHIOPIA_Aricha_FW.jpg?v=1695879464"
+    },
+    {
+      "id": 6,
+      "title": "CABALLEROS",
+      "description": "Delightfully balanced, apple and macadamia notes are highlighted by a honeysuckle sweetness.",
+      "country": "Honduras",
+      "price": 16,
+      "currencyFormat": "€",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_900730-MLM49722762181_042022-O.webp"
+    },
+    {
+      "id": 7,
+      "title": "DECAF ESPRESSO",
+      "description": "Delightful all the way through, peach swims in caramel and custard.",
+      "country": "Ethiopia",
+      "price": 13.5,
+      "currencyFormat": "€",
+      "image": "https://groundsforchange.com/cdn/shop/products/DecafEthiopiaSidamoOrganicFairTradeCoffee_900x.jpg?v=1650557198"
+    },
+    {
+      "id": 8,
+      "title": "LA BOLSA",
+      "description": "Ranking high on our must-try list is La Bolsa from Guatemala.",
+      "country": "Guatemala",
+      "price": 13,
+      "currencyFormat": "€",
+      "image": "https://images.vexels.com/media/users/3/193473/raw/b9db46da0bcef4d45ddaccef807f7e2b-maqueta-de-empaque-de-bolsa-de-cafe.jpg"
+    }
+  ]
 }
