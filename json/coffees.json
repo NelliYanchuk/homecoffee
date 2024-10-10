@@ -1,6 +1,5 @@
 {
-    "coffees": 
-    [
+    "coffees": [
         {
             "id": 1,
             "title": "RED BRICK",
@@ -8,7 +7,7 @@
             "country": "Guatemala",
             "price": 11,
             "currencyFormat": "€",
-            "image": ""
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRQLhCDC1AStj_KQ1dV70ux7bYNStOuOiMjA&s"
         },
         {
             "id": 2,
@@ -17,7 +16,7 @@
             "country": "Guatemala",
             "price": 15,
             "currencyFormat": "€",
-            "image": ""
+            "image": "https://sido.com.pl/wp-content/uploads/2022/02/Sido_Guatemala_Todos_Santos.jpg"
         },
         {
             "id": 3,
@@ -26,7 +25,7 @@
             "country": "Guatemala",
             "price": 13,
             "currencyFormat": "€",
-            "image": ""
+            "image": "https://www.monkeekoffee.com/wp-content/uploads/2021/09/IMG_1409-scaled.jpg"
         },
         {
             "id": 4,
@@ -35,7 +34,7 @@
             "country": "Costa Rica",
             "price": 15.5,
             "currencyFormat": "€",
-            "image": ""
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6NiOHkb_FnsPoT2urogeIZ6EPk7HGRxQ5Cw&s"
         },
         {
             "id": 5,
@@ -44,7 +43,7 @@
             "country": "Costa Rica",
             "price": 15.5,
             "currencyFormat": "€",
-            "image": ""
+            "image": "https://garagecoffeebros.com/cdn/shop/files/GCB_mockup-etichette_2000x1500_ETHIOPIA_Aricha_FW.jpg?v=1695879464"
         },
         {
             "id": 6,
@@ -53,7 +52,7 @@
             "country": "Honduras",
             "price": 16,
             "currencyFormat": "€",
-            "image": ""
+            "image": "https://http2.mlstatic.com/D_NQ_NP_900730-MLM49722762181_042022-O.webp"
         },
         {
             "id": 7,
@@ -62,7 +61,7 @@
             "country": "Ethiopia",
             "price": 13.5,
             "currencyFormat": "€",
-            "image": ""
+            "image": "https://groundsforchange.com/cdn/shop/products/DecafEthiopiaSidamoOrganicFairTradeCoffee_900x.jpg?v=1650557198"
         },
         {
             "id": 8,
@@ -70,9 +69,8 @@
             "description": "Ranking high on our must-try list is La Bolsa from Guatemala.",
             "country": "Guatemala",
             "price": 13,
-            "currencyId": "GBP",
             "currencyFormat": "€",
-            "image": ""
+            "image": "https://images.vexels.com/media/users/3/193473/raw/b9db46da0bcef4d45ddaccef807f7e2b-maqueta-de-empaque-de-bolsa-de-cafe.jpg"
         }
     ]
 }
