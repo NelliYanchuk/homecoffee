@@ -1,0 +1,17 @@
+{
+    "name": "home_caffee",
+    "version": "1.0.0",
+    "description": "home_caffee",
+    "main": "index.html",
+    "dependencies": {
+        "json-server": "*"
+    },
+    "devDependencies": {
+        "jest": "*"
+    },
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Nelli Yanchuk, Kareliz Diaz, Mariel Blanco, Jesus Tanga Mecheba, Jose Manuel Arango Pineda",
+    "license": "ISC"
+}
