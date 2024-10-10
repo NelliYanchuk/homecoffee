@@ -16,7 +16,7 @@ fetchCoffeeJson().then(coffee => {
         let currency = coffee.coffees[index].currencyFormat
         let image = coffee.coffees[index].image
 
-        houseSection.innerHTML += `
+        coffeeSection.innerHTML += `
             
         <div class="card" style="width: 18rem;">
         <img src="${image}" class="card-img-top" alt="${title}">
@@ -26,7 +26,7 @@ fetchCoffeeJson().then(coffee => {
             <p class="card-text">${description}</p>
         </div>
         </div>
-        
+
         `
     }
 })
