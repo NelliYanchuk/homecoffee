@@ -1,0 +1,77 @@
+{
+    "coffees": [
+      {
+        "id": 1,
+        "title": "RED BRICK",
+        "description": "A wonderful coffee to work with, its almond and caramel notes are perfectly balanced by the bright, fruity yum of Los Ancestros.",
+        "country": "Guatemala",
+        "price": 11,
+        "currencyFormat": "€",
+        "image": ""
+      },
+      {
+        "id": 2,
+        "title": "TODOS SANTOS",
+        "description": "Sweet, syrupy and delicious with notes of chocolate-covered cherry and blueberry.",
+        "country": "Guatemala",
+        "price": 15,
+        "currencyFormat": "€",
+        "image": ""
+      },
+      {
+        "id": 3,
+        "title": "RED DE MUJERES",
+        "description": "Red apple flows into delightful milk chocolate and orange notes that goes dreamily with, or without milk.",
+        "country": "Guatemala",
+        "price": 13,
+        "currencyFormat": "€",
+        "image": ""
+      },
+      {
+        "id": 4,
+        "title": "ORTIZ 1900",
+        "description": "Best enjoyed all day every day, expect a creamy pecan texture sprinkled with bits of red grape and fig.",
+        "country": "Costa Rica",
+        "price": 15.5,
+        "currencyFormat": "€",
+        "image": ""
+      },
+      {
+        "id": 5,
+        "title": "ARICHA",
+        "description": "Fresh, juicy and oh so delightful Aricha is an Ethiopian must-taste.",
+        "country": "Costa Rica",
+        "price": 15.5,
+        "currencyFormat": "€",
+        "image": ""
+      },
+      {
+        "id": 6,
+        "title": "CABALLEROS",
+        "description": "Delightfully balanced, apple and macadamia notes are highlighted by a honeysuckle sweetness.",
+        "country": "Honduras",
+        "price": 16,
+        "currencyFormat": "€",
+        "image": ""
+      },
+      {
+        "id": 7,
+        "title": "DECAF ESPRESSO",
+        "description": "Delightful all the way through, peach swims in caramel and custard.",
+        "country": "Ethiopia",
+        "price": 13.5,
+        "currencyFormat": "€",
+        "image": ""
+      },
+      {
+        "id": 8,
+        "title": "LA BOLSA",
+        "description": "Ranking high on our must-try list is La Bolsa from Guatemala.",
+        "country": "Guatemala",
+        "price": 13,
+        "currencyId": "GBP",
+        "currencyFormat": "€",
+        "image": ""
+      }
+    ]
+}
