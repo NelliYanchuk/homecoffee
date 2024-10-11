@@ -1,8 +1,8 @@
-﻿# HOMECOFFEE
+**#HOMECOFFEE**
 This teams project is composed by
 
 <UL>
-  <li><Nelli Yanchuk/li>
+  <li><Nelli Yanchuk</li>
   <li>Jose Manuel Arango</li>
   <li>Mariel Blanco</li>
   <li>Jesus Tanga</li>
@@ -15,10 +15,11 @@ This teams project is composed by
 
 **Facility **
 ---
+<ul>
+  <li>Have node.js installed</li>
+  <li>create the package.json</li>
+  <li>install npm dependency (npm install) json-server</li>
+  <li>Test Json server - install for fake api npm install -g json-server</li>
+  <li>Run json-server --watch coffees.json</li>
+</ul>
 
-Have node.js installed
-create the package.json
-install npm dependency (npm install) json-server
-Test Json server - install for fake api npm install -g json-server
-
-Run json-server --watch coffees.json
