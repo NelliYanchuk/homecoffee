@@ -4,7 +4,7 @@
 This teams project is composed by
 
 <UL>
-  <li><Nelli Yanchuk</li>
+  <li>Nelli Yanchuk</li>
   <li>Jose Manuel Arango</li>
   <li>Mariel Blanco</li>
   <li>Jesus Tanga</li>
