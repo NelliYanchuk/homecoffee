@@ -21,10 +21,14 @@ fetchCoffeeJson().then(coffeeArray => {
 
         <div class="card" style="width: 18rem;">
         <img src="${image}" class="card-img-top" alt="${title}">
-        <div class="card-body">
-            <h5 class="card-title">${id}.${title} ${country} ${price}€</h5>
-            <p class="card-subtitle"> Country: ${country}  Price: ${price} ${currency}/per kilo</p>
-            <p class="card-text">${description}</p>
+        <div>
+            <h5>${id}.${title} ${country}</h5>
+            <p class="card-subtitle"> Country: ${country}</p>
+            <p class="card-subtitle"> Price: ${price} ${currency}/per kilo</p>
+            <div class="image-container">
+                <img src="https://i.postimg.cc/ryRCMbXq/coffee-icon.png" class="card-coffee-icon" alt="coffee_icon" width="50">
+            </div>
+            <p>${description}</p>
         </div>
         </div>
 

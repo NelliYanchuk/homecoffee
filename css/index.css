@@ -3,15 +3,27 @@
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: space-around;
-    margin-top: 10px;
+    background-image: url("https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3Vwd2s2MTcxMzA4Ni13aWtpbWVkaWEtaW1hZ2Utam9iNTcyLTEuanBn.jpg");
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-.card {}
+.card {
+    margin-bottom: 30x;
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
 
-.card-body {}
+.image-container {
+    display: grid;
+    place-items: center;
+    height: 20px;
+}
 
-.card-title {}
-
-.card-subtitle {}
-
-.card-text {}
+h1 {
+    text-align: center;
+    background-color: #6B433A;
+    padding: 20px;
+    font-family: fantasy;
+    text-decoration-line: overline underline;
+}
