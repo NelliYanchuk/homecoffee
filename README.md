@@ -1,4 +1,4 @@
-﻿# homecoffee
+﻿# HOMECOFFEE
 This project is composed by:
 • Nelli Yanchuk
 • Jose Manuel Arango
