@@ -1,4 +1,6 @@
 **#HOMECOFFEE**
+---
+
 This teams project is composed by
 
 <UL>
@@ -9,9 +11,12 @@ This teams project is composed by
   <li>Kareliz Diaz</li>
 </UL>
 
+---
 
  ##### This project is about a page selling coffee from different parts of the world, for which we have worked with HTML, CSS, JAVA SCRIPT, VISUAL ESTUDIO CODE and GIT HUB
 ### Welcome to our page
+
+---
 
 **Facility **
 ---
