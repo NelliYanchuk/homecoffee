@@ -1,30 +1,34 @@
-**#HOMECOFFEE**
----
+# HomeCoffee ☕️
 
-This teams project is composed by
+Welcome to **HomeCoffee**, a simple and cozy project that celebrates coffee. Explore a collection of coffees from around the world, all presented in a clean and calming interface.
 
-<UL>
-  <li>Nelli Yanchuk</li>
-  <li>Jose Manuel Arango</li>
-  <li>Mariel Blanco</li>
-  <li>Jesus Tanga</li>
-  <li>Kareliz Diaz</li>
-</UL>
+## 👥 Our Team
 
----
+- Nelli Yanchuk
+- Jose Manuel Arango
+- Mariel Blanco
+- Jesus Tanga
+- Kareliz Diaz
 
- ##### This project is about a page selling coffee from different parts of the world, for which we have worked with HTML, CSS, JAVA SCRIPT, VISUAL ESTUDIO CODE and GIT HUB
-### Welcome to our page
+We are a passionate team of developers, dedicated to creating a warm and user-friendly coffee exploration experience.
 
----
+## 🌟 Features
 
-Facility
----
-<ul>
-  <li>Have node.js installed</li>
-  <li>create the package.json</li>
-  <li>install npm dependency (npm install) json-server</li>
-  <li>Test Json server - install for fake api npm install -g json-server</li>
-  <li>Run json-server --watch coffees.json</li>
-</ul>
+- **Curated Coffee Selection**: Explore detailed descriptions of handpicked coffees.
+- **Responsive Design**: Smooth experience across all devices.
+- **Tranquil Aesthetic**: Soft colors and inviting visuals to reflect the warmth of coffee at home.
+
+## 🛠️ Tech Stack
+
+- **HTML5**, **CSS3**, **JavaScript**
+- **GitHub**, **Node JS**, **Visual Studio Code**  
+- **Flexbox** for layout
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/NelliYanchuk/homecoffee.git
+    ```
+2. Open `index.html` in your browser to view.
 
