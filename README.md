@@ -1,5 +1,6 @@
 ﻿# HOMECOFFEE
-This project is composed by:
+This teams project is composed by
+
 <UL>
   <li><Nelli Yanchuk/li>
   <li>Jose Manuel Arango</li>
