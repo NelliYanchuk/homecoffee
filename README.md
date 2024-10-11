@@ -18,7 +18,7 @@ This teams project is composed by
 
 ---
 
-**Facility **
+Facility
 ---
 <ul>
   <li>Have node.js installed</li>
