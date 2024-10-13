@@ -32,3 +32,11 @@ We are a passionate team of developers, dedicated to creating a warm and user-fr
     ```
 2. Open `index.html` in your browser to view.
 
+## 🛠️ Facility
+    
+- Have node.js installed
+- reate the package.json
+- install npm dependency (npm install) json-server
+- Test Json server - install for fake api npm install -g json-server
+- Run json-server --watch coffees.json
+
