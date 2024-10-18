@@ -2,6 +2,9 @@
 
 Welcome to **HomeCoffee**, a simple and cozy project that celebrates coffee. Explore a collection of coffees from around the world, all presented in a clean and calming interface.
 
+## GitHub Page
+https://nelliyanchuk.github.io/homecoffee/
+
 ## 👥 Our Team
 
 - Nelli Yanchuk
@@ -40,3 +43,4 @@ We are a passionate team of developers, dedicated to creating a warm and user-fr
 - Test Json server - install for fake api npm install -g json-server
 - Run json-server --watch coffees.json
 
+![homecoffee](https://i.ibb.co/CnH19CC/homecoffee.jpg)
